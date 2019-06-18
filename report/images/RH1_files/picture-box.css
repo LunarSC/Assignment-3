@@ -1,0 +1,43 @@
+.teaser.title {
+margin-top: 12px;
+margin-bottom: 12px;
+color: #222;
+font-size: 24px;
+line-height: 32px;
+}
+
+.teaser.title.sub {
+margin-top: 12px;
+margin-bottom: 12px;
+color: #565A6D;
+font-size: 18px;
+line-height: 24px;
+}
+
+.blurb {
+margin-top: -32px;
+border-top: 1px solid #ededed;
+}
+
+.blurb {
+margin: 12px 0 24px;
+padding: 12px 24px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+-moz-box-shadow: 0 1px 3px #999;
+-webkit-box-shadow: 0 1px 3px #999;
+-o-box-shadow: 0 1px 3px #999;
+box-shadow: 0 1px 3px #999;
+background-color: #fff;
+}
+
+ .tooltip {
+    display:none;
+    background:transparent url(/media/img/tooltip/black_arrow.png);
+    font-size:12px;
+    height:70px;
+    width:160px;
+    padding:25px;
+    color:#eee;
+  }
